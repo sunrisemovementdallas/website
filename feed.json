@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sunrisemovementdallas.org",
+    "description": "",
+    "home_page_url": "https://sunrisemovementdallas.org",
+    "feed_url": "https://sunrisemovementdallas.org/feed.json",
+    "user_comment": "",
+    "icon": "https://sunrisemovementdallas.org/media/website/SUNRISE-NEW-YELLOW.png",
+    "author": {
+        "name": "Rohan Bansal"
+    },
+    "items": [
+    ]
+}
